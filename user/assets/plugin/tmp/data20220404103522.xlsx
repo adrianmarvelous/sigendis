@@ -1,0 +1,562 @@
+<style>
+  table, th, td {
+    height: 20px;
+  }
+  .border th, .border td {
+    border: 1px solid black;
+  }
+  
+</style>
+<table border="0" width="100%" style="border-collapse: collapse;font-size:10px;">
+  <thead style="font-size:12px;">
+    <tr>
+      <th align="center" colspan="14" style="font-size:13px;"><strong>PEMERINTAH KOTA SURABAYA<br/>LAPORAN PER PERIODE KEHADIRAN PEGAWAI</strong></th>
+    </tr>
+    <tr>
+      <td colspan="4"></td>
+      <td colspan="7" align="left">01-03-2022 s/d 31-03-2022</td>
+      <td rowspan="5" width="20%" class="barcodecell" colspan="3"><img src="https://teko-cak.surabaya.go.id/upload/qrcode/1648171463.png" class="qr" height="80" /></td>
+    </tr>
+    <tr>
+      <td>Nama</td>
+      <td colspan="10">CHRISTINA VANIA SABRINA, SE</td>
+    </tr>
+    <tr>
+      <td>Nip</td>
+      <td colspan="10" align="left">198501152009022006&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Instansi</td>
+      <td colspan="10">BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA</td>
+    </tr>
+    <tr>
+      <td>Jabatan</td>
+      <td colspan="10">Kepala Sub Bagian Keuangan</td>
+    </tr>
+    <tr>
+      <td colspan="16"></td>
+    </tr>
+  </thead>
+  <tbody class="border">
+    <tr>
+      <th rowspan="2">HARI</th>
+      <th rowspan="2">TANGGAL</th>
+      <th rowspan="2">JAM KERJA</th>
+      <th rowspan="2">MASUK</th>
+      <th colspan="2">TELAT MASUK</th>
+      <th rowspan="2">PULANG</th>
+      <th colspan="2">CEPAT PULANG</th>
+      <th colspan="2">LEMBUR RIIL</th>
+      <th colspan="2">LEMBUR TERHITUNG</th>
+      <th rowspan="2">KETERANGAN</th>
+    </tr>
+    <tr>
+      <th>JAM</th>
+      <th>MENIT</th>
+      <th>JAM</th>
+      <th>MENIT</th>
+      <th>JAM</th>
+      <th>MENIT</th>
+      <th>JAM</th>
+      <th>MENIT</th>
+    </tr>
+    <tr>
+      <td align="center">SELASA</td>
+      <td align="center">01-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:22</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">19:11</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">11 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">RABU</td>
+      <td align="center">02-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:19</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">19:02</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">2 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">KAMIS</td>
+      <td align="center">03-03-2022</td>
+      <td align="center">Hari Suci Nyepi Tahun Baru Saka 1944</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">JUMAT</td>
+      <td align="center">04-03-2022</td>
+      <td align="center">07:30:00 15:00:00</td>
+      <td align="center">07:30</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">19:46</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">4 </td>
+      <td align="center">46 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SABTU</td>
+      <td align="center">05-03-2022</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">MINGGU</td>
+      <td align="center">06-03-2022</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">SENIN</td>
+      <td align="center">07-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:33</td>
+      <td align="center">-</td>
+      <td align="center">3</td>
+      <td align="center">17:45</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">1 </td>
+      <td align="center">45 </td>
+      <td align="center">1 </td>
+      <td align="center">45 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SELASA</td>
+      <td align="center">08-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:28</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:58</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">58 </td>
+      <td align="center">2 </td>
+      <td align="center">58 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">RABU</td>
+      <td align="center">09-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:30</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:49</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">49 </td>
+      <td align="center">2 </td>
+      <td align="center">49 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">KAMIS</td>
+      <td align="center">10-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:32</td>
+      <td align="center">-</td>
+      <td align="center">2</td>
+      <td align="center">19:22</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">22 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">JUMAT</td>
+      <td align="center">11-03-2022</td>
+      <td align="center">07:30:00 15:00:00</td>
+      <td align="center">07:27</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:22</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">22 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SABTU</td>
+      <td align="center">12-03-2022</td>
+      <td align="center"></td>
+      <td align="center">11:39</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">14:44</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">5 </td>
+      <td align="center">3 </td>
+      <td align="center">5 </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">MINGGU</td>
+      <td align="center">13-03-2022</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">SENIN</td>
+      <td align="center">14-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:30</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">19:10</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">10 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SELASA</td>
+      <td align="center">15-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:28</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">17:10</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">1 </td>
+      <td align="center">10 </td>
+      <td align="center">1 </td>
+      <td align="center">10 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">RABU</td>
+      <td align="center">16-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:33</td>
+      <td align="center">-</td>
+      <td align="center">3</td>
+      <td align="center">18:53</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">53 </td>
+      <td align="center">2 </td>
+      <td align="center">53 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">KAMIS</td>
+      <td align="center">17-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:29</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:26</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">26 </td>
+      <td align="center">2 </td>
+      <td align="center">26 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">JUMAT</td>
+      <td align="center">18-03-2022</td>
+      <td align="center">07:30:00 15:00:00</td>
+      <td align="center">07:26</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">17:39</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">39 </td>
+      <td align="center">2 </td>
+      <td align="center">39 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SABTU</td>
+      <td align="center">19-03-2022</td>
+      <td align="center"></td>
+      <td align="center">09:12</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">13:03</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">51 </td>
+      <td align="center">3 </td>
+      <td align="center">51 </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">MINGGU</td>
+      <td align="center">20-03-2022</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">*</td>
+    </tr>
+    <tr>
+      <td align="center">SENIN</td>
+      <td align="center">21-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:33</td>
+      <td align="center">-</td>
+      <td align="center">3</td>
+      <td align="center">18:57</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">57 </td>
+      <td align="center">2 </td>
+      <td align="center">57 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">SELASA</td>
+      <td align="center">22-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:27</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:25</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">25 </td>
+      <td align="center">2 </td>
+      <td align="center">25 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">RABU</td>
+      <td align="center">23-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:16</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">18:54</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">2 </td>
+      <td align="center">54 </td>
+      <td align="center">2 </td>
+      <td align="center">54 </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">KAMIS</td>
+      <td align="center">24-03-2022</td>
+      <td align="center">07:30:00 16:00:00</td>
+      <td align="center">07:27</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">19:49</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">3 </td>
+      <td align="center">49 </td>
+      <td align="center">3 </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td align="center">JUMAT</td>
+      <td align="center">25-03-2022</td>
+      <td align="center">07:30:00 15:00:00</td>
+      <td align="center">07:28</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">07:28</td>
+      <td align="center">7</td>
+      <td align="center">32</td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">- </td>
+      <td align="center">H</td>
+    </tr>
+    <tr>
+      <td colspan="4" style="background-color:#E5E5E5;"><strong>TOTAL</strong></td>
+      <td align="center" style="background-color:#E5E5E5;">0</td>
+      <td align="center" style="background-color:#E5E5E5;">11</td>
+      <td style="background-color:#E5E5E5;">&nbsp;</td>
+      <td align="center" style="background-color:#E5E5E5;">7</td>
+      <td align="center" style="background-color:#E5E5E5;">32</td>
+      <td align="center" style="background-color:#E5E5E5;">56</td>
+      <td align="center" style="background-color:#E5E5E5;">34</td>
+      <td align="center" style="background-color:#E5E5E5;">52</td>
+      <td align="center" style="background-color:#E5E5E5;">52</td>
+      <td style="background-color:#E5E5E5;"></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="16"></td>
+    </tr>
+    <tr>
+      <td width="7%">Keterangan</td>
+      <td width="3%">H</td>
+      <td>: HADIR</td>
+      <td width="3%">M</td>
+      <td colspan="3">: MANGKIR/ALPHA</td>
+      <td width="3%">*</td>
+      <td colspan="3">: BEBAS/LIBUR</td>
+      <td width="3%">R</td>
+      <td colspan="3">: HARI LIBUR</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>J</td>
+      <td>: IJIN PER JAM</td>
+      <td>CAP</td>
+      <td>: CUTI ALASAN PENTING</td>
+      <td>CB</td>
+      <td>: CUTI BESAR</td>
+      <td>CM</td>
+      <td>: CUTI MELAHIRKAN</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>CS</td>
+      <td>: CUTI SAKIT</td>
+      <td>CT</td>
+      <td>: CUTI TAHUNAN</td>
+      <td>DK</td>
+      <td>: DIKLAT</td>
+      <td>DL</td>
+      <td>: DINAS LUAR</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DSP</td>
+      <td>: PENUGASAN</td>
+      <td>I</td>
+      <td>: IZIN</td>
+      <td>SK</td>
+      <td>: SAKIT</td>
+      <td>TB</td>
+      <td>: TUGAS BELAJAR</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>MD</td>
+      <td>: MENINGGAL</td>
+      <td>DR</td>
+      <td>: DINAS DI RUMAH (ISOLASI MANDIRI)</td>
+      <td colspan="4"></td>
+    </tr>
+    <tr>
+      <td colspan="8"></td>
+    </tr>
+    <tr>
+      <td colspan="8"></td>
+    </tr>
+    <tr>
+      <td colspan="8"></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left" style="font-size:15px; border-bottom:0px;">Informasi Lembur <sup>s</sup>/<sub>d</sub> Periode Cetak :</td>
+    </tr>
+    <tr>
+      <td width="5px" align="left" style="font-size:15px; border-top:0px; border-right:0px; border-bottom:0px;">Cetak&nbsp;</td>
+      <td width="5px" align="left" style="font-size:15px; border-top:0px; border-right:0px; border-left:0px; border-bottom:0px;">Tanggal&nbsp;</td>
+      <td align="left" style="font-size:15px; border-top:0px; border-left:0px; border-bottom:0px;">: 25-03-2022 Hari Jumat</td>
+    </tr>
+    <tr>
+      <td width="5px" align="left" style="font-size:15px; border-top:0px; border-right:0px; border-bottom:0px;">&nbsp;</td>
+      <td align="left" style="font-size:15px; border-top:0px; border-right:0px; border-left:0px; border-bottom:0px;">Waktu&nbsp;</td>
+      <td align="left" style="font-size:15px; border-top:0px; border-left:0px; border-bottom:0px;">: 08:24:23</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left" style="font-size:15px; border-top:0px; border-bottom:0px;">Lembur Riil <sup>s</sup>/<sub>d</sub> Waktu Cetak : 56 jam 34 menit</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left" style="font-size:15px; border-top:0px;">Lembur Terhitung Untuk Skor Kehadiran : 52 jam 52 menit</td>
+    </tr>
+  </tfoot>
+</table>
